@@ -1,4 +1,11 @@
-## Hi there 👋
+# About Me
+
+* 👋 Hi, my name is Kevin Sylliaasen!
+* 🤔 I am mainly interested in computer engineering aspects such as embedded development and vlsi design, but I am also interested in forms of multimedia communication and network engineering.
+* 🎓 I am a current undergraduate student for Computer Engineering at SDSU.
+* ⚡I hope to be able to enhance my skills.
+
+
 
 <!--
 **Kdsylliaasen/Kdsylliaasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
